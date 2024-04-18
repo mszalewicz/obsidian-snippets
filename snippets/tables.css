@@ -1,0 +1,15 @@
+.cm-table-widget table thead tr {
+    background-color: #e8d7f5;
+}
+
+.cm-table-widget table tbody tr:nth-child(even) {
+    background-color: var(--background-primary);
+}
+
+.cm-table-widget table tbody tr:nth-child(even) {
+    background-color: var(--background-secondary);
+}
+
+.cm-table-widget td {
+    color: grey;
+}

@@ -1,0 +1,14 @@
+.cm-header-1,
+.markdown-preview-view h1 {
+    color: #6e7594;
+}
+
+.cm-header-2,
+.markdown-preview-view h2 {
+    color: #aa8b91;
+}
+
+.cm-header-3,
+.markdown-preview-view h3 {
+    color: #91aa8b;
+}
